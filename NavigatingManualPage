@@ -5,7 +5,7 @@ You will find the option in manual page. With hundreds of thousands of commands 
 So you need to master the manual pages.
 
 
-Manual page is divided into 8 different segments. 
+# Manual page is divided into 8 different segments. 
 
 Example : man passwd will bring  the summery section of all man page for passwd command.
 
