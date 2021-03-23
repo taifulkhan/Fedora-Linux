@@ -5,6 +5,18 @@ You will find the option in manual page. With hundreds of thousands of commands 
 So you need to master the manual pages.
 
 
-Manual page is divided into 8 different segments. 
+#Manual page is divided into 8 different segments. 
 
 Example : man passwd will bring  the summery section of all man page for passwd command.
+
+
+Below are the short description of the 8 different segment of the manual page 
+
+
+1. Regular user commands  : Commands that can be run from  The shell by a regular user ( typically no  Administrative privilege is needed ). This is useful for regular user
+
+
+2. System calls : Programming functions used within an application to make calls to the kernel.  This is useful for programmers. 
+
+3. 
+
