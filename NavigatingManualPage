@@ -5,7 +5,7 @@ You will find the option in manual page. With hundreds of thousands of commands 
 So you need to master the manual pages.
 
 
-#Manual page is divided into 8 different segments. 
+Manual page is divided into 8 different segments. 
 
 Example : man passwd will bring  the summery section of all man page for passwd command.
 
@@ -18,5 +18,11 @@ Below are the short description of the 8 different segment of the manual page
 
 2. System calls : Programming functions used within an application to make calls to the kernel.  This is useful for programmers. 
 
-3. 
+3. C Library functions :  Programming functions that provide  interfaces to specific programming libraries  Such as those for certain graphical interfaces or other libraries that operate in userspace.Useful for Programmers 
+
+4. Devices and special files  : File system nodes that represent hardware devices  such as terminals or CD drives or software devices Such as random number generator
+
+
+
+
 
