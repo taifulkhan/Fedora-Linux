@@ -1,4 +1,4 @@
-Introduction  
+
 
 No matter from which background you come from , a regular computer user, a system administrator or software developer , learning Linux is the best time investment you have made. Why ? Because as  a  Linux user you have the freedom to run , change, redistribute  a computer program as you wish. Isn't that amazing ! 
 
