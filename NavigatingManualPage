@@ -20,7 +20,19 @@ Below are the short description of the 8 different segment of the manual page
 
 3. C Library functions :  Programming functions that provide  interfaces to specific programming libraries  Such as those for certain graphical interfaces or other libraries that operate in userspace.Useful for Programmers 
 
-4. Devices and special files  : File system nodes that represent hardware devices  such as terminals or CD drives or software devices Such as random number generator
+4. Devices and special files  : File system nodes that represent hardware devices  such as terminals or CD drives or software devices Such as random number generator.This is useful for system administrator. 
+
+
+5.File formats and conversions : Types of files such as graphical or word processing file  or specific configuration files such as password  group file.
+
+6. Games : Games available  on the system . 
+
+7. Miscellaneous  : Overviews of topics such as protocols , file systems  Character set standards and so on. 
+
+8. System administration tools and daemons  : Commands that require root or other administrative  privileges to use.  This is useful for system administrator 
+
+
+
 
 
 
