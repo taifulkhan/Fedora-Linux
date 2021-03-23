@@ -1,0 +1,10 @@
+When you explore Linux commands, it is extremely important that you develop a habit of navigating   to  manual pages. 
+Because you will find all the variety of options to use a command. I find this super useful when I learn the commands. 
+For example you know that you can reset a password for a user with passwd command but you wish to set  the  minimum password lifetime, in days. 
+You will find the option in manual page. With hundreds of thousands of commands available it it literally impossible to find examples all the time. 
+So you need to master the manual pages.
+
+
+Manual page is divided into 8 different segments. 
+
+Example : man passwd will bring  the summery section of all man page for passwd command.
