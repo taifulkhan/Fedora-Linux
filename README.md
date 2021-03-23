@@ -10,7 +10,7 @@ Hence I decided to make a list of Linux commands in 5 different category so that
 
 Important Note 
 
-All the commands presented here are tested in Fedora 28, a Linux distribution developed by the community-supported Fedora Project. You might ask why did I choose Fedora over other distribution? Well that is a discussion topic for another day. However you can choose any distribution of your choice. Almost 80% of the command will work just fine in any other distribution. For other 20% you have to take help from online to find the alternate commands. 
+All the commands presented here are tested in Fedora 32, a Linux distribution developed by the community-supported Fedora Project. You might ask why did I choose Fedora over other distribution? Well that is a discussion topic for another day. However you can choose any distribution of your choice. Almost 80% of the command will work just fine in any other distribution. For other 20% you have to take help from online to find the alternate commands. 
 
 
 
